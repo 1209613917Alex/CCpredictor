@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<dup0 count="2">
+		<source sourseFile="D:\download\apollo-master-1\apollo-master\modules\localization\msf\local_pyramid_map\base_map\base_map.cpp" startLine="(1, 2)" endLine="(3, 4)">
+			<code function_name="function_name">
+        template &lt;typename T&gt;
+        bool UDPBridgeSenderComponent&lt;T&gt;::Proc(const std::shared_ptr&lt;T&gt; &amp;pb_msg) {
+          if (remote_port_ == 0 || remote_ip_.empty()) {
+            AERROR &lt;&lt; &quot;remote info is invalid!&quot;;
+            return false;
+          }
+
+          if (pb_msg == nullptr) {
+            AERROR &lt;&lt; &quot;proto msg is not ready!&quot;;
+            return false;
+          }
+        </code>
+		</source>
+		<source sourseFile="D:\download\apollo-master-1\apollo-master\modules\localization\msf\local_pyramid_map\base_map\base_map.cpp" startLine="(1, 2)" endLine="(3, 4)">
+			<code function_name="function_name">
+        template &lt;typename T&gt;
+        bool UDPBridgeSenderComponent&lt;T&gt;::Proc(const std::shared_ptr&lt;T&gt; &amp;pb_msg) {
+          if (remote_port_ == 0 || remote_ip_.empty()) {
+            AERROR &lt;&lt; &quot;remote info is invalid!&quot;;
+            return false;
+          }
+
+          if (pb_msg == nullptr) {
+            AERROR &lt;&lt; &quot;proto msg is not ready!&quot;;
+            return false;
+          }
+        </code>
+		</source>
+	</dup0>
+	<dup1 count="2">
+		<source sourseFile="D:\download\apollo-master-1\apollo-master\modules\perception\lidar\lib\object_filter_bank\object_filter_bank.cpp" startLine="(1, 2)" endLine="(3, 4)">
+			<code function_name="function_name">
+        template &lt;typename T&gt;
+        bool UDPBridgeSenderComponent&lt;T&gt;::Proc(const std::shared_ptr&lt;T&gt; &amp;pb_msg) {
+          if (remote_port_ == 0 || remote_ip_.empty()) {
+            AERROR &lt;&lt; &quot;remote info is invalid!&quot;;
+            return false;
+          }
+
+          if (pb_msg == nullptr) {
+            AERROR &lt;&lt; &quot;proto msg is not ready!&quot;;
+            return false;
+          }
+        </code>
+		</source>
+		<source sourseFile="D:\download\apollo-master-1\apollo-master\modules\perception\lidar\lib\object_filter_bank\object_filter_bank.cpp" startLine="(1, 2)" endLine="(3, 4)">
+			<code function_name="function_name">
+        template &lt;typename T&gt;
+        bool UDPBridgeSenderComponent&lt;T&gt;::Proc(const std::shared_ptr&lt;T&gt; &amp;pb_msg) {
+          if (remote_port_ == 0 || remote_ip_.empty()) {
+            AERROR &lt;&lt; &quot;remote info is invalid!&quot;;
+            return false;
+          }
+
+          if (pb_msg == nullptr) {
+            AERROR &lt;&lt; &quot;proto msg is not ready!&quot;;
+            return false;
+          }
+        </code>
+		</source>
+	</dup1>
+	<summary count="2"/>
+</Root>

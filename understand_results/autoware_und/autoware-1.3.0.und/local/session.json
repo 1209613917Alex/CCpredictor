@@ -1,0 +1,103 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "1_2048x1152": {
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00ProjectOverviewWidget": {
+                                "height": 365,
+                                "width": 250
+                            },
+                            "01SuggestionsBrowser": {
+                                "height": 781,
+                                "width": 256
+                            },
+                            "02EntityFilter": {
+                                "height": 388,
+                                "width": 250
+                            },
+                            "03InfoBrowserWidget_0": {
+                                "height": 389,
+                                "width": 270
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectMetricsWidget": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "All Entities"
+                },
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "LastAccessedPid": "35100",
+                "LastDisplayGroup": "1_2048x1152",
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "size": 0
+                    },
+                    "index": -1
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@lD:/download/autoware-1.3.0/autoware-1.3.0/ros/src/sensing/drivers/imu/packages/microstrain/src/3dm_gx5_15_node.cpp",
+                    "projectOverviewCharts": "true",
+                    "projectOverviewChartsPosition": 1,
+                    "projectOverviewChartsSelected": "true",
+                    "projectOverviewChartsWorkspace": 0,
+                    "selection": "3dm_gx5_15_node.cpp"
+                },
+                "ProjectUI": {
+                    "projectviewcuritem": "ros"
+                },
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 1002,
+                    "split orientation": -1
+                }
+            }
+        }
+    }
+}

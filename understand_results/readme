@@ -1,0 +1,18 @@
+The excel results come from SciTools Understand.
+We have already conducted an analysis on each version of the project using SciTools Understand,
+And the results have been exported as shown in the files in this directory.
+
+Firstly, readers should download the project to their local machine.
+Then, they should use Understand to analyze it.
+It is important to note that in the final additional option,
+you need to choose to store the results locally; otherwise,
+you may encounter a situation where the API access to the Understand database appears empty.
+
+
+Readers could get source project from the link below:
+
+**-Apollo-**:
+https://github.com/ApolloAuto/apollo
+
+**-Autoware-**:
+https://github.com/autowarefoundation/autoware_ai
